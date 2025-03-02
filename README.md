@@ -1,46 +1,119 @@
-# Getting Started with Create React App
+Video review of the project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://icecreamapps.com/v/dt2r2q4
 
-## Available Scripts
+List of dependencies for the project "admss-crm":
 
-In the project directory, you can run:
+Dependencies
+@fortawesome/fontawesome-free: 6.4.2
 
-### `yarn start`
+@popperjs/core: ^2.11.6
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+animate.css: 4.1.1
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+apexcharts: 3.42.0
 
-### `yarn test`
+axios: 1.5.0
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+bootstrap: 5.3.1
 
-### `yarn build`
+bootstrap-icons: ^1.5.0
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+chart.js: 4.4.0
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+clsx: 2.0.0
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+formik: 2.4.3
 
-### `yarn eject`
+line-awesome: 1.3.0
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+lint-staged: ^14.0.1
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+nouislider: 15.7.1
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+prism-react-renderer: 2.0.6
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+prism-themes: 1.9.0
 
-## Learn More
+prismjs: 1.29.0
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+qs: 6.11.2
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+react: 18.2.0
+
+react-apexcharts: 1.4.1
+
+react-bootstrap: 2.8.0
+
+react-copy-to-clipboard: 5.1.0
+
+react-dom: 18.2.0
+
+react-inlinesvg: 4.0.3
+
+react-query: 3.39.3
+
+react-router-dom: 6.15.0
+
+react-scripts: 5.0.1
+
+react-table: ^7.7.0
+
+react-topbar-progress-indicator: 4.1.1
+
+socicon: 3.0.5
+
+yup: ^1.0.0
+
+DevDependencies
+@testing-library/jest-dom: 6.1.2
+
+@testing-library/react: 14.0.0
+
+@testing-library/user-event: 14.4.3
+
+@types/bootstrap: 5.2.6
+
+@types/chart.js: 2.9.37
+
+@types/jest: 29.5.4
+
+@types/node: 20.5.8
+
+@types/prismjs: 1.26.0
+
+@types/qs: 6.9.8
+
+@types/react: 18.2.21
+
+@types/react-copy-to-clipboard: 5.0.4
+
+@types/react-dom: 18.2.7
+
+@types/react-table: ^7.7.15
+
+@types/sass-loader: 8.0.5
+
+css-loader: 6.8.1
+
+del: 7.1.0
+
+eslint-plugin-prettier: ^5.0.0
+
+husky: ^8.0.3
+
+mini-css-extract-plugin: 2.7.6
+
+prettier: ^3.0.3
+
+rtlcss-webpack-plugin: 4.0.7
+
+sass: 1.66.1
+
+sass-loader: 13.3.2
+
+typescript: ~5.2.2
+
+webpack: 5.88.2
+
+webpack-cli: 5.1.4
